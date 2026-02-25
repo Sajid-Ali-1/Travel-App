@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "904961208877",
+    "project_id": "travel-app-fd4d7",
+    "storage_bucket": "travel-app-fd4d7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904961208877:android:ed5d666804cb035f1bfea4",
+        "android_client_info": {
+          "package_name": "com.example.travel_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRyFmXAqgXh8rBK_zo_OzYhlb8Av7JIao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904961208877:android:6cb8b41d9422ae881bfea4",
+        "android_client_info": {
+          "package_name": "com.skypnt.firstmontana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRyFmXAqgXh8rBK_zo_OzYhlb8Av7JIao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
